@@ -3,9 +3,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmacedoh___/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/gabriel-macedo-87b5b7219/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&show_icons=true&theme=merko)
+<div style="display: inline_block">
+    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmacedosantos)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Tecnologias que eu uso no meu dia 
 
