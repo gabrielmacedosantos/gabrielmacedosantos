@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/gabriel-macedo-87b5b7219/)
 
 
-   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&show_icons=true&theme=merko)
+   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmacedosantos)](https://github.com/anuraghazra/github-readme-stats)
 
 
