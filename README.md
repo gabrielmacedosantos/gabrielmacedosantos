@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmacedoh___/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/gabriel-macedo-87b5b7219/)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&theme=highcontrast&show_icons=true)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&show_icons=true&theme=highcontrast&show)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmacedosantos&theme=highcontrast&show)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia 
 
