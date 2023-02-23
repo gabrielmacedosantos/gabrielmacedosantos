@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/gabriel-macedo-87b5b7219/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&theme=highcontrast&show_icons=true)
 
 ## Tecnologias que eu uso no meu dia 
 
