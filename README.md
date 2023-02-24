@@ -6,12 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmacedoh___/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/gabriel-macedo-87b5b7219/)
 
-![gabrielmacedosantos GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&show_icons=true&theme=highcontrast&show)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmacedosantos&theme=highcontrast&show)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Macedo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&show_icons=true&count_private=true&hide_border=true&title_color=fed600&icon_color=fed600&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Macedo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmacedosantos&layout=compact&hide_border=true&title_color=fed600&text_color=fff&bg_color=0d1117" />
 </div>
 
 ## Tecnologias que eu uso no meu dia 
