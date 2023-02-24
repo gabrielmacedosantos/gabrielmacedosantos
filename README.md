@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Macedo;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Macedo;I'm+21+years+old;I'm+from+Brazil;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmacedoh___/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/gabriel-macedo-87b5b7219/)
