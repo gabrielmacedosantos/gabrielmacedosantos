@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">Minhas Redes</h3>
+<h3 align="center">Minhas Redes</h3>
 
 ###
 
@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/gabriel-macedo-a02751317/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="gabriel_macedosantos@hotmail.com" target="_blank">
+  <a href="https://outlook.live.com/mail/0/sentitems" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
