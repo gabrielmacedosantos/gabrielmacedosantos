@@ -37,8 +37,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielmacedosantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=city_lights&locale=pt-br&hide_border=true&order=1" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmacedosantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gabrielmacedosantos&theme=nord&column=-1&row=1&margin-w=8&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmacedosantos&radius=15&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmacedosantos&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="290" alt="activity-graph graph"  />
 </div>
 
 ###
