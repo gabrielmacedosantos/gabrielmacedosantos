@@ -6,9 +6,9 @@
 
 Especialista em Garantia da Qualidade (QA) | Desenvolvimento Front-end
 
-📍 Idade: 23 anos
-🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas – Uninove
-💼 Empresa Atual: Keeggo
+📍 Idade: 23 anos </br>
+🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas – Uninove </br>
+💼 Empresa Atual: Keeggo </br>
 
 Sobre mim
 Profissional dedicado e apaixonado por tecnologia, atuo como Especialista em Garantia da Qualidade (QA) na Keeggo, assegurando a excelência e performance das soluções entregues. Meu foco é garantir que os produtos atendam e superem as expectativas dos clientes, impulsionando a inovação e a melhoria contínua nos processos de teste.
