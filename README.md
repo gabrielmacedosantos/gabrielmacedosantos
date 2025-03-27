@@ -13,7 +13,8 @@ Especialista em Garantia da Qualidade (QA) | Desenvolvimento Front-end
 Sobre mim
 Profissional dedicado e apaixonado por tecnologia, atuo como Especialista em Garantia da Qualidade (QA) na Keeggo, assegurando a excelência e performance das soluções entregues. Meu foco é garantir que os produtos atendam e superem as expectativas dos clientes, impulsionando a inovação e a melhoria contínua nos processos de teste.
 
-Especialidades
+<h6>Especialidades</h6>
+
 🔹 QUALIDADE & TESTES DE SOFTWARE:
 - Cypress, Robot Framework.
 - Quality Assurance (Plano de Testes & Gestão de Bugs).
@@ -31,7 +32,8 @@ Especialidades
 - Adobe XD e Figma.
 - UX e UI Design.
 
-O que busco?
+<h6>O que busco?</h6>
+
 Busco sempre me aperfeiçoar, me manter atualizado e expandir meus conhecimentos na área de tecnologia. Tenho grande interesse em aprender novas ferramentas e metodologias, sempre com o objetivo de contribuir de forma estratégica para o crescimento da empresa. Sou proativo, ágil no aprendizado e movido por desafios que envolvem inovação e eficiência..</p>
 
 ###
