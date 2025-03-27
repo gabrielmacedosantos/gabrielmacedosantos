@@ -2,7 +2,37 @@
 
 ###
 
-<p align="left">Olá, sou Gabriel Macedo, tenho 23 anos de idade! Sou graduado em Análise e Desenvolvimento de Sistemas na Uninove.<br><br>Atualmente, trabalho na empresa Keeggo como especialista em garantia da Qualidade (QA). Meu papel envolve garantir a qualidade e a performance das soluções, sempre focado em entregar produtos que atendam e superem as expectativas dos nossos clientes.<br><br>Especialidade: Profissional de Testes de Software - QA / 2 anos e 5 meses. Estudando desenvolvimento front-end.<br><br>Habilidades:<br>Testes de Software & Quality Assurance: Experiência em plano de testes e gestão de bugs<br>Desenvolvimento Web: Conhecimentos em HTML5, CSS3, Bootstrap, JavaScript.<br>Ferramentas de Análise: Power BI.<br>Versionamento de Código: Git e GitHub.<br>Design: Adobe XD, UX e UI Design.<br>Banco de Dados: SQL.<br>Programação: Python (incluindo primeiros passos, tipos de operadores).<br>Informática e Pacote Office: Conhecimento abrangente.<br>Metodologias Ágeis: Organizando papéis em equipes ágeis.<br>Robot Framework<br>Cypress<br>Treinamento Interno Keeggo Básico referente à Norma EMV - Bandeiras<br><br>O que busco?!<br>Oportunidades para aplicar meu conhecimento e contribuir para o sucesso de uma empresa de tecnologia. Sou rápido em aprender e apaixonado por resolver problemas de forma eficiente.</p>
+<p align="left">Gabriel Macedo
+
+Especialista em Garantia da Qualidade (QA) | Desenvolvimento Front-end
+
+📍 Idade: 23 anos
+🎓 Formação: Graduado em Análise e Desenvolvimento de Sistemas – Uninove
+💼 Empresa Atual: Keeggo
+
+Sobre mim
+Profissional dedicado e apaixonado por tecnologia, atuo como Especialista em Garantia da Qualidade (QA) na Keeggo, assegurando a excelência e performance das soluções entregues. Meu foco é garantir que os produtos atendam e superem as expectativas dos clientes, impulsionando a inovação e a melhoria contínua nos processos de teste.
+
+Especialidades
+🔹 QUALIDADE & TESTES DE SOFTWARE:
+- Cypress, Robot Framework.
+- Quality Assurance (Plano de Testes & Gestão de Bugs).
+- Teste de Software.
+- Equipes Ágeis: Organizando os papéis de uma equipe.
+- Testes manuais e automatizados.
+
+🔹 FRONT-END & DESENVOLVIMENTO WEB: 
+- HTML5, CSS3, JavaScript e TypeScript.
+- Bootstrap, Tailwind CSS e NodeJS (cursando),
+- Git e GitHub (versionamento de código).
+- Banco de Dados SQL.
+
+🔹UX/UI & FERRAMENTAS:
+- Adobe XD e Figma.
+- UX e UI Design.
+
+O que busco?
+Busco sempre me aperfeiçoar, me manter atualizado e expandir meus conhecimentos na área de tecnologia. Tenho grande interesse em aprender novas ferramentas e metodologias, sempre com o objetivo de contribuir de forma estratégica para o crescimento da empresa. Sou proativo, ágil no aprendizado e movido por desafios que envolvem inovação e eficiência..</p>
 
 ###
 
